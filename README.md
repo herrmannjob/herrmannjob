@@ -10,10 +10,11 @@
 [![Twitch Status Badge](https://img.shields.io/twitch/status/souherrmann?style=social)](https://www.twitch.tv/souherrmann)
 
 
-<div align="center">
-  <a href="https://github.com/herrmannjob"></a>
+<div>
+  <a href="https://github.com/herrmannjob">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herrmannjob&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrmannjob&layout=compact&langs_count=7&theme=chartreuse-dark">
+  </a>
 </div>
 
 <br>
