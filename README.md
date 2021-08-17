@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Gabriel Herrmann, mas pode me chamar de Herrmann 😄
+<img src="https://i.ibb.co/LYLZMgP/banner.jpg">
 
 [![Visits Badge](https://badges.pufler.dev/visits/herrmannjob/herrmannjob)](https://github.com/herrmannjob)
 [![Years Badge](https://badges.pufler.dev/years/herrmannjob)](https://github.com/herrmannjob)
