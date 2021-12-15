@@ -46,7 +46,7 @@
 </td></tr></table>
 
 <div style="display: flex !important; flex-direction: row !important" align="space-between">
-  <a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
+<a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
 <details>
 <summary>More Skills by Stacks</summary>
 <br>
