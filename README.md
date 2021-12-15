@@ -47,8 +47,8 @@
 
 <div>
 <details>
-<summary>More Skills by Stacks</summary>
   <a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
+<summary>More Skills by Stacks</summary>
 <br>
   
 ![](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2FC71E)
