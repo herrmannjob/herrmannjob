@@ -45,7 +45,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 </td></tr></table>
 
-<div>
+<div style="display: flex !important; flex-direction: row !important" align="space-between">
   <a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
 <details>
 <summary>More Skills by Stacks</summary>
