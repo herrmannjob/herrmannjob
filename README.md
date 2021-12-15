@@ -106,6 +106,8 @@
 
 <br>
 
+<a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
+
 ## Now Playing on Spotify
 <a href="https://now-playing-profile-herrmannjob.vercel.app/now-playing?open"><img src="https://now-playing-profile-herrmannjob.vercel.app/now-playing" height="64"></a>
 
@@ -122,5 +124,3 @@
   <a href="https://now-playing-profile-herrmannjob.vercel.app/top-tracks?i=3&open"><img src="https://now-playing-profile-herrmannjob.vercel.app/top-tracks?i=3" width="45%"></a>
   <a href="https://now-playing-profile-herrmannjob.vercel.app/top-tracks?i=6&open"><img src="https://now-playing-profile-herrmannjob.vercel.app/top-tracks?i=6" width="45%"></a>
 </div>
-
-<a href="https://app.daily.dev/souherrmann"><img src="https://api.daily.dev/devcards/f237d590eb094038bb0c79cd7953bd29.png?r=tpz" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
