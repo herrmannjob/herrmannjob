@@ -46,8 +46,8 @@
 </td></tr></table>
 
 <div>
-<details>
   <a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
+<details>
 <summary>More Skills by Stacks</summary>
 <br>
   
