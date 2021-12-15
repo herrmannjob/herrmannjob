@@ -45,8 +45,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 </td></tr></table>
 
+<div>
 <details>
 <summary>More Skills by Stacks</summary>
+  <a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
 <br>
   
 ![](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2FC71E)
@@ -103,10 +105,9 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=2FC71E)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=2FC71E)
 </details>
+</div>
 
 <br>
-
-<a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
 
 ## Now Playing on Spotify
 <a href="https://now-playing-profile-herrmannjob.vercel.app/now-playing?open"><img src="https://now-playing-profile-herrmannjob.vercel.app/now-playing" height="64"></a>
