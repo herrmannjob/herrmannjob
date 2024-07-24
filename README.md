@@ -110,6 +110,7 @@
 <br>
 
 ## Now Playing on Spotify
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hnj247hlw1z9maf1k3ao16gpd&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hnj247hlw1z9maf1k3ao16gpd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
 <a href="https://now-playing-profile-herrmannjob.vercel.app/now-playing?open"><img src="https://now-playing-profile-herrmannjob.vercel.app/now-playing" height="64"></a>
 
 ## Top Tracks
