@@ -50,7 +50,7 @@
 
   <h3>🛠️ Technical Arsenal</h3>
 
-  <table style="border: none;">
+  <table style="border: none; display: flex; justify-content: center;">
     <tr>
       <td align="center" width="auto" style="border: none;">
         <img src="https://skillicons.dev/icons?i=ts,js,html,css,htmx" title="Core Web" />
@@ -80,7 +80,7 @@
     </tr>
   </table>
 
-  <table style="border: none;">
+  <table style="border: none; display: flex; justify-content: center;">
     <tr>
       <td align="center" width="auto" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" title="Databases" />
