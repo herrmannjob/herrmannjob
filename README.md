@@ -1,110 +1,151 @@
-<img src="https://i.ibb.co/LYLZMgP/banner.jpg">
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A7C15,100:A8D965&height=350&section=header&section=header&reversal=false&text=HERRMANN&fontColor=E8FEF6&fontSize=80&animation=fadeIn&fontAlignY=35&desc=FullStack%20Engineer%20%7C%20Frontend%20Specialist%20%7C%20Tech%20Lead&descAlignY=55&descAlign=50)
 
-[![Visits Badge](https://badges.pufler.dev/visits/herrmannjob/herrmannjob)](https://github.com/herrmannjob)
-[![Years Badge](https://badges.pufler.dev/years/herrmannjob)](https://github.com/herrmannjob)
-[![Repos Badge](https://badges.pufler.dev/repos/herrmannjob)](https://github.com/herrmannjob)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=2FC71E)](https://codepen.io/herrmannjob)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2FC71E)](https://www.linkedin.com/in/souherrmann)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=2FC71E)](https://www.instagram.com/herrmann.css)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-Channel-informational?style=flat&logo=twitch&logoColor=white&color=2FC71E)](https://www.twitch.tv/souherrmann)
-[![Twitch Status Badge](https://img.shields.io/twitch/status/souherrmann?style=social)](https://www.twitch.tv/souherrmann)
-
-
-<div>
-  <a href="https://github.com/herrmannjob">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herrmannjob&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrmannjob&layout=compact&langs_count=7&theme=chartreuse-dark">
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58AE8D&center=true&vCenter=true&width=600&lines=Building+Mission-Critical+Platforms;Specialist+in+Frontend+Engineering;Tech+Lead+in+Finance+%26+Health;Mobile+%26+Web3+Innovation" alt="Typing SVG" />
   </a>
+
+  <br />
+  <br />
+
+  <div align="center" style="max-width: 800px; margin: 0 auto; color: #a8b9c0;">
+    <h3>🚀 About Me</h3>
+    <p>
+      I am a <b>Senior FullStack Engineer</b> and <b>Frontend Specialist</b> with over <b>10 years of experience</b> (since 2014).
+      <br />
+      I specialize in building <b>mission-critical platforms</b> for the Financial, Health, and Technology sectors.
+    </p>
+    <p>
+      Currently delivering high-performance solutions as a <b>Tech Lead</b> and <b>Consultant</b>.
+      <br />
+      My expertise lies in <b>Advanced Frontend Architecture</b> (Micro Frontends, Design Systems), <b>Mobile Development</b>, and <b>Scalable Backend Systems</b>.
+    </p>
+    <p>
+      <i>Founder of "Projeto Dev" (since 2020), supporting new tech talent.</i>
+    </p>
+  </div>
+
+  <br />
+  <br />
+
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/herrmannjob">
+      <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=herrmannjob&show_icons=true&theme=react&title_color=58AE8D&icon_color=EACE43&text_color=ffffff&bg_color=101719&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    </a>
+    <a href="https://github.com/herrmannjob">
+      <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=herrmannjob&layout=compact&langs_count=8&theme=react&title_color=58AE8D&text_color=ffffff&bg_color=101719&hide_border=true" />
+    </a>
+  </div>
+  
+  <br />
+  
+  <a href="https://github.com/herrmannjob">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=herrmannjob&theme=react&background=101719&border=58AE8D&stroke=58AE8D&ring=58AE8D&fire=EACE43&currStreakNum=ffffff&currStreakLabel=58AE8D&sideNums=ffffff&sideLabels=58AE8D&dates=ffffff&hide_border=true" />
+  </a>
+
+  <br />
+  <br />
+
+  <h3>🛠️ Technical Arsenal</h3>
+
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ts,js,html,css,htmx" title="Core Web" />
+        <br>
+        <b style="color: #58AE8D;">Core</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=angular,vue,react,svelte,nuxtjs,pinia,nextjs,redux,tailwind,materialui,sass,styledcomponents&perline=4" title="Frontend Frameworks" />
+        <br>
+        <b style="color: #58AE8D;">Frontend</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,nestjs,java,go,php&perline=4" title="Backend & Languages" />
+        <br>
+        <b style="color: #58AE8D;">Backend</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" title="Mobile" />
+        <br>
+        <b style="color: #58AE8D;">Mobile</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=lua,rust,solidity" title="Web3" />
+        <br>
+        <b style="color: #58AE8D;">Web3</b>
+      </td>
+    </tr>
+  </table>
+
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" title="Databases" />
+        <br>
+        <b style="color: #58AE8D;">Data</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp" title="Cloud" />
+        <br>
+        <b style="color: #58AE8D;">Cloud</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,rabbitmq,redis,jenkins,elasticsearch,grafana&perline=4" title="DevOps" />
+        <br>
+        <b style="color: #58AE8D;">DevOps</b>
+      </td>
+      <td align="center" width="auto" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,figma,postman,supabase,vercel&perline=4" title="Tools" />
+        <br>
+        <b style="color: #58AE8D;">Tools</b>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <a href="https://app.daily.dev/souherrmann">
+    <img src="https://api.daily.dev/devcards/v2/qNtUeoMGdXmaQtDEH1Wjx.png?r=ifw&type=wide" width="652" alt="Gabriel Herrmann Grecchi's Dev Card"/>
+  </a>
+  
+  <br />
+  <br />
+  
+  <h3>🐍 Contribution Evolution</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herrmannjob/herrmannjob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herrmannjob/herrmannjob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/herrmannjob/herrmannjob/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br />
+  <br />
+
+  <h3>🌐 Let's Connect</h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/souherrmann" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:herrmannjob@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.twitch.tv/souherrmann" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.instagram.com/herrmann.css" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    </a>
+  </p>
+
+  <br />
+  <br />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=herrmannjob&label=Profile%20Views&color=58AE8D&style=for-the-badge" alt="Profile Views" />
+  </p>
+
 </div>
-
-<br>
-
-<table><tr><td valign="top" width="400" align="center">
-
-### FrontEnd Stacks
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-</td><td valign="top" width="300" align="center">
-
-### BackEnd Stacks
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-</td><td valign="top" width="300" align="center">
-
-### Mobile Stacks
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-</td></tr></table>
-
-<div style="display: flex !important; flex-direction: row !important" align="space-between">
-<a href="https://app.daily.dev/souherrmann"><img src="https://github.com/herrmannjob/herrmannjob/blob/main/devcard.svg" width="400" alt="Gabriel Herrmann Grecchi's Dev Card"/></a>
-<details>
-<summary>More Skills by Stacks</summary>
-<br>
-  
-![](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Nuxt.js-informational?style=flat&logo=nuxt.js&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-MaterialUI-informational?style=flat&logo=materialui&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Less-informational?style=flat&logo=less&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/FrontEnd-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=2FC71E)
-  
-<br>
-  
-![](https://img.shields.io/badge/BackEnd-Nest.js-informational?style=flat&logo=Nestjs&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-Java-informational?style=flat&logo=Java&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-.NET-informational?style=flat&logo=.net&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/BackEnd-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2FC71E)
-  
-<br>
-
-![](https://img.shields.io/badge/Mobile-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Mobile-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=2FC71E)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=2FC71E)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Babel.js-informational?style=flat&logo=babel&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Gulp.js-informational?style=flat&logo=gulp&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=Adobe-Insomnia&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=2FC71E)
-![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=2FC71E)
-</details>
-</div>
-
-<br>
